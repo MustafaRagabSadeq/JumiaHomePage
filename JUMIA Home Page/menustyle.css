@@ -1,0 +1,114 @@
+.dropbtn {
+    background-color: none;
+    color: black;
+    font-size: 15x;
+    border: none;
+}
+.drop {
+    position: relative;
+    display: block;
+    margin-left: 5px;
+}
+.drop:hover .dropbtn {
+    text-decoration: none;
+    color: #ff9900;
+}
+
+.drop-content {
+    width: 682px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    margin-left: 204px;
+    margin-top: -41px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.drop:hover .drop-content {
+    display: block;
+}
+.drop-content2 {
+    width: 682px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    margin-left: 204px;
+    margin-top: -81px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.drop:hover .drop-content2 {
+    display: block;
+}
+.drop-content3 {
+    width: 682px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    margin-left: 204px;
+    margin-top: -121px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.drop:hover .drop-content3 {
+    display: block;
+}
+.drop-content4 {
+    width: 682px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    margin-left: 204px;
+    margin-top: -161px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.drop:hover .drop-content4 {
+    display: block;
+}
+.drop-content5 {
+    width: 682px;
+    height: 400px;
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    margin-left: 204px;
+    margin-top: -201px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.drop:hover .drop-content5 {
+    display: block;
+}
+.mmm{
+    
+    color: black !important;
+    font-size: 12px !important;
+    text-decoration: none !important;
+}
+.mmm:hover{
+    
+    color: black !important;
+    font-weight: 500 !important;
+    text-decoration: none !important;
+}
+.nn{
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+.nn:hover{
+    
+    color: #ff9900 ;
+    font-weight: 500 ;
+    text-decoration: none;
+}
